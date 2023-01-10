@@ -1,4 +1,3 @@
 do something
-bake cake
 ride bike
 do coding
