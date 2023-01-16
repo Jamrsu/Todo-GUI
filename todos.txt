@@ -1,4 +1,3 @@
-do something
 master python
 something
 clean bike
@@ -6,3 +5,5 @@ read
 listen
 record
 cuddle Holly
+ride bike
+help
