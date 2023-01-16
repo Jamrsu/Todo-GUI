@@ -6,4 +6,3 @@ read
 listen
 record
 cuddle Holly
- lots
