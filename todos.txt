@@ -5,3 +5,5 @@ clean bike
 read
 listen
 record
+cuddle Holly
+ lots
